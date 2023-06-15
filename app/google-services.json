@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754027747274",
+    "project_id": "can-we-7cc45",
+    "storage_bucket": "can-we-7cc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754027747274:android:2033d64b1a46705a036133",
+        "android_client_info": {
+          "package_name": "com.example.canwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754027747274-ap2acipcekugtulj587vbkhvcra5fi3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfnuve1aZ5qym8UWoJ9de_gdHAZEs1szI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754027747274-ap2acipcekugtulj587vbkhvcra5fi3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
